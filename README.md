@@ -20,5 +20,13 @@ Notes
 - If Pollinations changes their public endpoint or usage policy, update the code accordingly.
 
 Screenshot
-(Place your screenshots here)
+<img width="699" height="407" alt="Screenshot 2025-10-25 114919s" src="https://github.com/user-attachments/assets/6e31618d-8ed2-4423-9120-e3c7f13a04de" />
+
+
+
+
+
 ```
+
+
+https://github.com/pollinations/pollinations/issues/4768
